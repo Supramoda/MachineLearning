@@ -1,2 +1,0 @@
-# MachineLearning
-Simple Linear Regression
